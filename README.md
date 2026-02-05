@@ -1,50 +1,43 @@
-<div align="center">
+# Hi there, I'm Tạ Vũ Hảo (Hảo Hán) 👋
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20F548&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Tạ+Vũ+Hảo+👋;Aspiring+DevSecOps+Engineer+🚀;Student+at+FPT+University+🎓;Welcome+to+Hảo+Hán+Stack!+💻" alt="Typing SVG" />
-  </a>
+> 🛡️ **Aspiring DevSecOps Engineer** | ☕ **Java Backend Developer**
+> 
+> *Student at FPT University (SE Major)*
 
-  <br/>
+---
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+### 🚀 Technical Skills (Vũ khí chiến đấu)
 
-</div>
+Tôi tập trung xây dựng hệ thống bảo mật, tự động hóa và vận hành ổn định.
 
-<hr/>
+| Category | Technologies |
+| --- | --- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
+| **CI/CD & Tools** | ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=hta022563&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hta022563&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+---
 
-  <br/>
+### 🌏 Foreign Languages
 
-  <img src="https://streak-stats.demolab.com?user=hta022563&theme=tokyonight&hide_border=true&background=0D1117&ring=20F548&fire=20F548&currStreakLabel=20F548" alt="GitHub Streak" />
+* 🇬🇧 **English:** Professional Working Proficiency (Good).
+* 🇯🇵 **Japanese:** JLPT N5 (Basic).
+* 🇻🇳 **Vietnamese:** Native.
 
-  <br/>
+---
 
-  <img src="https://komarev.com/ghpvc/?username=hta022563&label=Profile%20Views&color=20F548&style=flat-square" alt="Profile Views" />
+### 📊 GitHub Activity
 
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hta022563&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hta022563&layout=compact&theme=default&hide_border=true&hide_title=true" height="150" alt="languages graph" />
+</p>
 
-<hr/>
+---
 
-<h3 align="center">📫 Connect with Hảo Hán Stack</h3>
-<div align="center">
-  <a href="https://facebook.com/VuHaoTa965" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.linkedin.com/in/vu-hao-ta-75412b360" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hta022563@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+### 📫 Connect with Hảo Hán Stack
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/VuHaoTa965)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vu-hao-ta-75412b360)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hta022563@gmail.com)
