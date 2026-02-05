@@ -32,8 +32,7 @@ I focused on building a secure, automated, and stable operational system.<br/>
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hta022563&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hta022563&layout=compact&theme=default&hide_border=true&hide_title=true" height="150" alt="languages graph" />
+
 </p>
 
 ---
