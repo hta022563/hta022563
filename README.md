@@ -9,6 +9,8 @@
 ### 🚀 Technical Skills (Vũ khí chiến đấu)
 
 Tôi tập trung xây dựng hệ thống bảo mật, tự động hóa và vận hành ổn định.
+I focused on building a secure, automated, and stable operational system.
+安全で自動化された安定した運用システムの構築に注力しました。
 
 | Category | Technologies |
 | --- | --- |
