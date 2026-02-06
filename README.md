@@ -1,12 +1,12 @@
 # Hi there, I'm Tạ Vũ Hảo (Hảo Hán) 👋
 
-> 🛡️ **Aspiring DevSecOps Engineer** | ☕ **Java Backend Developer**
+>  **Aspiring DevSecOps Engineer** |  **Java Backend Developer**
 > 
 > *Student at FPT University (SE Major)*
 
 ---
 
-### 🚀 Technical Skills (Vũ khí chiến đấu)
+###  Technical Skills 
 
 Tôi tập trung xây dựng hệ thống bảo mật, tự động hóa và vận hành ổn định. <br/>
 I focused on building a secure, automated, and stable operational system.<br/>
@@ -21,7 +21,7 @@ I focused on building a secure, automated, and stable operational system.<br/>
 | **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
 ---
 
-### 🌏 Foreign Languages
+###  Foreign Languages
 
 * 🇬🇧 **English:** Professional Working Proficiency (Good).
 * 🇯🇵 **Japanese:** JLPT N5 (Basic).
@@ -29,7 +29,7 @@ I focused on building a secure, automated, and stable operational system.<br/>
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <p align="left">
 
@@ -37,7 +37,7 @@ I focused on building a secure, automated, and stable operational system.<br/>
 
 ---
 
-### 📫 Connect with Hảo Hán Stack
+###  Connect with Hảo Hán Stack
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/VuHaoTa965)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vu-hao-ta-75412b360)
