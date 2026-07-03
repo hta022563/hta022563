@@ -23,7 +23,7 @@ I focused on building a secure, automated, and stable operational system.<br/>
 
 ###  Foreign Languages
 
-* 🇬🇧 **English:** Professional Working Proficiency (Good).
+* 🇬🇧 **English:** Intermediate (B1) — reading technical documentation comfortably, actively improving
 * 🇯🇵 **Japanese:** JLPT N5 (Basic).
 * 🇻🇳 **Vietnamese:** Native.
 
